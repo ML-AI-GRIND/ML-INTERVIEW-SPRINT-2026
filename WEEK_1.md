@@ -36,3 +36,5 @@ Over this coming Saturday and Sunday, we will conduct our peer mock interviews b
 
 ### Goodluck Message
 Let's kick things off with strong energy! This group is built to push each other, sharpen our technical execution, and hold one another accountable. Dive into the resources, prep with your assigned partners for the weekend, and let’s cook!
+
+## feel free to add you own resource could help the team
