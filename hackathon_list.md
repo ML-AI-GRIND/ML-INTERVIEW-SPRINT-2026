@@ -1,17 +1,5 @@
 # Hackathon List
 
-Last checked: 8 October 2026.
-
-**Scope:** online events, or events that meet in person in Lagos or Ogun State only. Duplicates across your lists are merged.
-
-**Sort order:** earliest first, by the next key date (submission deadline, or the event date when there is no application step).
-
-**Check column:**
-- **Checked** = I opened the official page and the details below come from it.
-- **Unverified** = details come from your uploaded files only. The page did not load or I did not open it. Confirm dates, prize, and eligibility before you commit.
-
-Times are in the zone each site states. Where none is stated, treat the date as TBC.
-
 ## Summary
 
 | # | Hackathon | Type | Format | Opens / starts | Deadline / key date | Prize | Check |
@@ -225,26 +213,3 @@ Times are in the zone each site states. Where none is stated, treat the date as 
 - **Link:** https://imlco.org/en/
 
 ---
-
-## Removed
-
-**Duplicates merged:** ETH Lagos (in all three sources), NAIC, Zecathon, SafeTech, InnovateX, and NeuralVillage each appeared more than once across your files.
-
-**Removed for in-person attendance outside Lagos or Ogun:**
-
-| Hackathon | Why removed |
-|-----------|-------------|
-| NITDA International Cybersecurity Hackathon (27-28 Oct) | In person in Abuja |
-| NeuralVillage Neurotech Hackathon (2-16 Nov) | Virtual build phase, but the in-person pre-hackathon (17-19 Nov) and opening ceremony are at the National Mathematical Centre, Kwali (FCT). Also limited to universities in the 19 northern states and the FCT. |
-| SafeTech Africa HackLab '26 (closes 18 Oct) | Mentorship and the midway showcase are virtual, but finalists pitch live at the YouthConnekt Africa Summit in Kigali, Rwanda (25-27 Nov). It could come back if virtual attendance is allowed. |
-
-## Gaps to verify
-
-- **Unverified entries (2, 3, 6, 8, 11, 15-19):** pages did not load or were not opened. Details come from your files only.
-- **Open Agent Hackathon:** official dates (22-27 Oct) differ from your ranked file (13 Oct deadline).
-- **Zecathon 6.0:** prize pool is stated two ways (N70M vs N90M).
-- **InnovateX:** the 30 Oct date, the age range, and the prize total are inconsistent on the page.
-- **NAIC:** finals venue (Digital Nigeria Showcase, 8-10 Nov) is not published.
-- **ETH Lagos:** prize, tracks, and submission process are not published.
-- **Hacktoberfest Hack Days (Abeokuta, Ikeja):** no event page found yet.
-- **Qollab x IonQ:** registration closed 6 Oct per your list.
